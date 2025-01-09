@@ -14,3 +14,11 @@ S3 (simple storage service) is important service to store and retrieve data like
 EC2 stands for Amazon Elastic Compute Cloud, which is a service within Amazon Web Services (AWS) 
 that allows users to run applications on virtual computers in the cloud.
 ```
+
+## SIX pillar of AWS well architected framework
+1. Operational excellence
+2. Security
+3. Reliability
+4. Performance efficiency
+5. Cost optimization
+6. Sustainability
