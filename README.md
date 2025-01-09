@@ -11,4 +11,6 @@ aws sts get-caller-identity --> To know the user details (Who am I)
 ```
 ```
 S3 (simple storage service) is important service to store and retrieve data like images, videos etc...
+EC2 stands for Amazon Elastic Compute Cloud, which is a service within Amazon Web Services (AWS) 
+that allows users to run applications on virtual computers in the cloud.
 ```
