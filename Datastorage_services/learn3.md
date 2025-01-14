@@ -30,4 +30,4 @@ aws se cp filname s3://bucketname --sse AES256
 It acts as a cache to serve the content to local users instead of fetching from the source for every request.
 AWS solution for CDN is aws cloud front. 
 
-![AWS CDN](C:\Users\sabar\Downloads\aws_cdn.png)
+![AWS CDN](C:\Users\sabar\Sabari-SRE\AWS-Learning\images\aws_cdn.png)
